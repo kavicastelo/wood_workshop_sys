@@ -1,0 +1,2 @@
+shanu	shanaya	Management_department
+kavi	thenu	HR_department
